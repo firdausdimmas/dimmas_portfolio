@@ -1,10 +1,8 @@
-# Dimmas' Portfolio
-
-Analytics Portfolio
+# Dimmas' Analytics Portfolio
 
 ## SQL Project
 
-### [Project 1: Analyzing_Unicorn_Companies] (https://github.com/firdausdimmas/SQLProject_1)
+### [Project 1: Analyzing Unicorn Companies](https://github.com/firdausdimmas/SQLProject_1)
 
 * Support an investment firm by analyzing trends among high-growth companies.
 * Identify industries generating the highest company valuations.
