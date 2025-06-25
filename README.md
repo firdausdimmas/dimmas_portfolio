@@ -39,9 +39,194 @@
   - **Excel** – Data cleaning and preparation
   - **PostgreSQL** – Data storage, querying, and transformation using SQL
   - **Tableau Public** – Interactive dashboard development and visualization
+    
 * **Outcome:** A dynamic dashboard that helps users understand job market trends, identify high-demand skills, and explore job opportunities across industries and locations.
 
-## [Project 1: Analyzing Unicorn Companies](https://github.com/firdausdimmas/SQLProject_1)
+## [Project 3: Just In Time Supply Chain](https://public.tableau.com/views/JustinTimeSupplyChainFindings/SupplyChain)
+
+![Supply Chain](https://github.com/user-attachments/assets/f8ce7486-17a6-4996-ad03-44ea87460cfe)
+
+* **Objective:** Create a supply chain dashboard to analyze operational efficiency and logistics performance for JustinTime Supply Chain.
+
+* **Goal:** Provide actionable insights on inventory management, supplier performance, delivery efficiency, and order fulfillment to optimize supply chain operations.
+
+* **Dataset:** Supply chain data including order details, product categories, supplier performance, shipping status, delivery times, and fulfillment rates.
+
+* **Key Analysis:**
+  - Inventory levels and stock movement
+  - On-time delivery rates and shipping performance
+  - Supplier reliability and performance
+  - Order fulfillment rates and bottleneck identification
+
+* **Tools Used:**
+  - **Excel** – Data cleaning and preparation
+  - **PostgreSQL** – Data storage, SQL querying, and transformation
+  - **Tableau Public** – Interactive dashboard creation and data visualization
+
+* **Outcome:** A dynamic dashboard that helps stakeholders monitor supply chain health, improve delivery performance, optimize inventory, and enhance supplier management.
+
+## [Project 4: Just In Time Shipment](https://public.tableau.com/views/JustinTimeShipmentDashboard/Shipmentdashboard)
+
+![Shipment dashboard](https://github.com/user-attachments/assets/b4fd4c3f-8cbd-4e40-b370-52ae63935870)
+
+* **Objective:** Develop a shipment dashboard to track delivery performance and shipping efficiency for JustinTime.
+
+* **Goal:** Provide insights into shipment status, delivery timelines, shipping delays, and carrier performance to optimize logistics operations.
+
+* **Dataset:** Shipment data including order IDs, shipping dates, delivery dates, shipment status, carrier details, and delivery performance metrics.
+
+* **Key Analysis:**
+  - On-time vs delayed shipments
+  - Delivery status breakdown (on-time, late, in transit)
+  - Carrier performance analysis
+  - Shipment trends over time and delivery efficiency
+
+* **Tools Used:**
+  - **Excel** – Data cleaning and preparation
+  - **PostgreSQL** – Data storage, SQL querying, and data transformation
+  - **Tableau Public** – Dashboard creation and data visualization
+
+* **Outcome:** A dynamic dashboard that enables stakeholders to monitor shipment performance, identify delivery issues, improve carrier management, and streamline logistics processes.
+
+## [Project 5: Just In Time Inventory](https://public.tableau.com/views/JustinTimeInventoryDashboard/Inventorydashboard)
+
+![Inventory dashboard](https://github.com/user-attachments/assets/5fd64a03-4d31-4917-88c0-60db4057adab)
+
+* **Objective:** Create an inventory dashboard to monitor stock levels, product movement, and warehouse efficiency for JustinTime.
+
+* **Goal:** Provide insights into inventory management, stock availability, turnover rates, and restocking needs to optimize supply chain operations.
+
+* **Dataset:** Inventory data including product IDs, categories, stock levels, warehouse locations, reorder points, and stock movement history.
+
+* **Key Analysis:**
+  - Current stock levels by product and warehouse
+  - Fast-moving vs slow-moving products
+  - Inventory turnover rate analysis
+  - Restock alerts and stockout identification
+
+* **Tools Used:**
+  * **Excel** – Data cleaning and preparation
+  * **PostgreSQL** – Data storage, SQL querying, and data transformation
+  * **Tableau Public** – Dashboard creation and data visualization
+
+* **Outcome:** An interactive dashboard that helps stakeholders track stock levels, manage inventory efficiently, prevent stockouts, and optimize warehouse operations.
+
+## [Project 6: Atlas Labs HR Dashboard](https://public.tableau.com/views/AtlasLabsHRDashboard_17486115293760/HRDashboard)
+
+![HR Dashboard](https://github.com/user-attachments/assets/229504dd-de89-4b71-995f-9dcc257fe5ff)
+
+* **Objective:** Develop an HR dashboard to monitor workforce metrics and analyze employee-related data for Atlas Labs.
+
+* **Goal:** Provide insights into employee demographics, turnover, hiring trends, and workforce distribution to support HR decision-making.
+
+* **Dataset:** HR data including employee IDs, demographics, departments, job roles, tenure, hiring status, and attrition records.
+
+* **Key Analysis:**
+  - Employee distribution by department, role, and gender
+  - Attrition rate analysis by department and job role
+  - Hiring vs attrition trends over time
+  - Workforce diversity and tenure distribution
+
+* **Tools Used:**
+  - **Excel** – Data cleaning and preparation
+  - **PostgreSQL** – Data storage, SQL querying, and transformation
+  - **Tableau Public** – Dashboard creation and data visualization
+
+* **Outcome:** An interactive dashboard that helps HR teams monitor workforce trends, analyze attrition, track hiring needs, and support diversity and retention strategies.
+
+## [Project 7: Databel Customer Churn](https://public.tableau.com/views/DatabelCustomerChurnDashboard_17481814276300/ChurnAnalysis)
+
+![Churn Analysis](https://github.com/user-attachments/assets/5740d90f-20e3-40dd-acfe-d54b7d1ece95)
+
+* **Objective:** Build a customer churn analysis dashboard to monitor customer retention and churn patterns for Databel.
+
+* **Goal:** Provide insights into churn rates, customer behavior, and key factors influencing churn to support retention strategies.
+
+* **Dataset:** Customer data including demographics, tenure, contract types, payment methods, service usage, and churn status.
+
+* **Key Analysis:**
+  - Churn rate by customer segment and contract type
+  - Identification of key churn drivers (e.g., tenure, payment methods)
+  - Customer distribution by churn status
+  - Trends in active vs churned customers over time
+
+* **Tools Used:**
+  - **Excel** – Data cleaning and preparation
+  - **PostgreSQL** – Data storage, SQL querying, and data transformation
+  - **Tableau Public** – Dashboard creation and data visualization
+
+* **Outcome:** An interactive dashboard that helps businesses understand churn patterns, identify at-risk customers, and implement data-driven customer retention strategies.
+
+## [Project 8: Inventory Analysis for Acropolis Retail Ltd.](https://public.tableau.com/views/InventoryAnalysisStory/InventoryAnalysis)
+
+![Inventory Analysis](https://github.com/user-attachments/assets/c0ba1af4-cdbc-48f1-acb6-05826fae6125)
+
+* **Objective:** Build an inventory analysis dashboard to track stock levels, product movement, and inventory performance.
+
+* **Goal:** Provide insights into inventory health, stock availability, turnover rates, and replenishment needs to improve operational efficiency.
+
+* **Dataset:** Inventory data including product IDs, categories, stock levels, sales data, reorder points, and warehouse locations.
+
+* **Key Analysis:**
+  - Stock levels by product and warehouse
+  - Fast-moving vs slow-moving items
+  - Inventory turnover rate and stock aging
+  - Restocking needs and stockout risk identification
+
+* **Tools Used:**
+  - **Excel** – Data cleaning and preprocessing
+  - **PostgreSQL** – Data storage, SQL querying, and data transformation
+  - **Tableau Public** – Interactive dashboard creation and data visualization
+
+* **Outcome:** A dynamic dashboard that enables stakeholders to monitor inventory status, optimize stock management, reduce stockouts, and improve supply chain efficiency.
+
+## [Project 9: Divvy Historical Trip](https://public.tableau.com/views/DivvyHistoricalTrip/Whoaretheriders)
+
+![Who are the riders_](https://github.com/user-attachments/assets/27d46abf-1f95-471d-944a-38dfab848794)
+
+* **Objective:** Develop a trip analysis dashboard to understand rider behavior and usage patterns for Divvy Bike Sharing.
+
+* **Goal:** Provide insights into rider demographics, trip patterns, and differences between casual and member riders to support business strategies.
+
+* **Dataset:** Divvy historical trip data including rider types, trip durations, start/end stations, rideable types, and trip dates.
+
+* **Key Analysis:**
+  - Rider segmentation: casual vs member riders
+  - Trip duration and frequency analysis
+  - Popular routes and stations
+  - Ride patterns by day, month, and bike type
+
+* **Tools Used:**
+  - **Excel** – Data cleaning and preprocessing
+  - **PostgreSQL** – Data storage, SQL querying, and transformation
+  - **Tableau Public** – Interactive dashboard creation and data visualization
+
+* **Outcome:** An interactive dashboard that helps stakeholders understand rider behavior, optimize bike distribution, improve service offerings, and enhance user experience.
+
+## [Project 10: HealthStat Length of Stay (LOS) Comparison](https://public.tableau.com/views/DivvyHistoricalTrip/Whoaretheriders)
+
+![LOS dashboard](https://github.com/user-attachments/assets/6c9b820f-1366-4451-bbb6-8480186cb829)
+
+* **Objective:** Create a Length of Stay (LOS) dashboard to analyze patient stay duration and hospital performance.
+
+* **Goal:** Provide insights into average LOS, patient flow, and departmental efficiency to support healthcare management and operational improvements.
+
+* **Dataset:** Hospital data including patient IDs, admission/discharge dates, departments, diagnoses, and length of stay records.
+
+* **Key Analysis:**
+  - Average LOS by department and diagnosis
+  - LOS comparison across departments
+  - Patient admission and discharge trends
+  - Identification of departments with high or low LOS
+
+* **Tools Used:**
+  - **Excel** – Data cleaning and preprocessing
+  - **PostgreSQL** – Data storage, SQL querying, and data transformation
+  - **Tableau Public** – Dashboard development and data visualization
+
+* **Outcome:** An interactive dashboard that enables healthcare providers to monitor patient LOS, optimize resource allocation, improve patient flow, and enhance operational efficiency.
+
+## [Project 11: Analyzing Unicorn Companies](https://github.com/firdausdimmas/SQLProject_1)
 
 * **Objective:** Support an investment firm in analyzing high-growth company trends.
 * **Goal:** Identify top-performing industries by company valuation and track the emergence rate of high-value companies.
@@ -50,7 +235,7 @@
 * **Tools:** SQL (PostgreSQL), with data querying, aggregation, and trend analysis techniques.
 * **Outcome:** Deliver insights to guide portfolio optimization and strategic investment decisions based on industry growth patterns.
 
-## [Project 2: Evaluate a Manufacturing Process](https://github.com/firdausdimmas/SQLProject_2)
+## [Project 12: Evaluate a Manufacturing Process](https://github.com/firdausdimmas/SQLProject_2)
 
 * **Objective:** Enhance manufacturing quality through Statistical Process Control (SPC).
 * **Goal:** Identify and minimize defects by establishing control limits and analyzing production data.
@@ -59,7 +244,7 @@
 * **Tools used:** SQL (PostgreSQL) for data analysis and SPC calculations.
 * **Outcome:** Found 57 out of 363 parts out of control, with Operator 5 having the most alerts, leading to recommendations for root cause analysis and training.
 
-## [Project 3: Analyzing Motorcycle Part Sales](https://github.com/firdausdimmas/SQLProject_3)
+## [Project 13: Analyzing Motorcycle Part Sales](https://github.com/firdausdimmas/SQLProject_3)
 
 * **Objective:** Analyze motorcycle part sales data to understand wholesale revenue by product line, month, and warehouse.
 * **Goal:** Calculate net wholesale revenue for each product line, categorized by month and warehouse.
@@ -68,7 +253,7 @@
 * **Tools used:** SQL (PostgreSQL) for querying and aggregating sales data.
 * **Outcome:** Engine Parts and Frame & Body were top revenue generators; Central Warehouse led in revenue; and revenue showed a strong upward trend from June to August.
 
-## [Project 4: Impact Analysis of GoodThought NGO Initiatives](https://github.com/firdausdimmas/SQLProject_4)
+## [Project 14: Impact Analysis of GoodThought NGO Initiatives](https://github.com/firdausdimmas/SQLProject_4)
 
 * **Objective:** Optimize GoodThought NGO's impact and resource allocation using data from their PostgreSQL database (2010-2023).
 * **Goal:** Analyze trends, evaluate program effectiveness, and identify improvement opportunities for the NGO.
@@ -77,7 +262,7 @@
 * **Tools used:** SQL (PostgreSQL) for trend analysis.
 * **Outcome:** Identified top-funded assignments, regional donor patterns, and high-impact assignments.
 
-## [Project 5: Impact Analysis of GoodThought NGO Initiatives](https://github.com/firdausdimmas/SQLProject_5)
+## [Project 15: Impact Analysis of GoodThought NGO Initiatives](https://github.com/firdausdimmas/SQLProject_5)
 
 * **Objective:** Explore factors influencing student success through analyzing lifestyle habits and exam performance.
 * **Goal:** Uncover relationships between student habits and academic performance for educational improvement.
