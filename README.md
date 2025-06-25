@@ -1,5 +1,46 @@
 # Dimmas' Analytics Portfolio
 
+## [Project 1: Munchys Supply Chain](https://public.tableau.com/views/MunchysSalesInsight/MunchysPetSupplyExecutiveDashboard)
+
+![Munchys Pet Supply Executive Dashboard](https://github.com/user-attachments/assets/ba7c6cef-b631-40f1-9e0b-74b861ccf74f)
+
+* **Objective:** Develop an executive dashboard to monitor and analyze sales performance of Munchy’s Pet Supply.
+
+* **Goal:** Provide key insights on revenue, product performance, customer segments, and regional sales to support data-driven decisions.
+
+* **Dataset:** Sales transaction data including product categories, customer types, payment methods, regions, and sales metrics.
+
+* **Key Analysis:**
+  - Sales performance by region and customer segment
+  - Top-performing products and categories
+  - Revenue trends over time
+  - Payment method distribution and impact
+
+* **Tools Used:**
+  - **Excel** – Data cleaning, preprocessing, and initial exploration
+  - **PostgreSQL** – Data storage, querying, and transformation using SQL
+  - **Tableau** – Data visualization and creation of interactive dashboards
+
+* **Outcome:** Interactive dashboard enabling stakeholders to quickly assess sales trends, identify growth opportunities, and optimize business strategies.
+
+## [Project 2: DataSearch Job Trends](https://public.tableau.com/views/3_5_final_dashboard_solution_17482520907860/JobAnalytics)
+
+![Job Analytics](https://github.com/user-attachments/assets/9a369d50-c163-4334-b1dc-511d635df640)
+
+* **Objective:** Develop a job market analytics dashboard to analyze job demand and hiring trends.
+* **Goal:** Provide insights into job availability, industry demand, required skills, and job distribution to support career planning and workforce analysis.
+* **Dataset:** Job listing data including job titles, industries, required skills, company names, locations, and posting counts.
+* **Key Analysis:**
+  - Top industries with the highest job demand
+  - Most in-demand job roles and skills
+  - Job distribution by location
+  - Company-wise job posting analysis
+* **Tools Used:**
+  - **Excel** – Data cleaning and preparation
+  - **PostgreSQL** – Data storage, querying, and transformation using SQL
+  - **Tableau Public** – Interactive dashboard development and visualization
+* **Outcome:** A dynamic dashboard that helps users understand job market trends, identify high-demand skills, and explore job opportunities across industries and locations.
+
 ## [Project 1: Analyzing Unicorn Companies](https://github.com/firdausdimmas/SQLProject_1)
 
 * **Objective:** Support an investment firm in analyzing high-growth company trends.
