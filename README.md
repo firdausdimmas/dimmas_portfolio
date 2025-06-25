@@ -226,7 +226,7 @@
 
 * **Outcome:** An interactive dashboard that enables healthcare providers to monitor patient LOS, optimize resource allocation, improve patient flow, and enhance operational efficiency.
 
-## [Project 11: Analyzing Unicorn Companies](https://github.com/firdausdimmas/SQLProject_1)
+## [Project 11: Analyzing Unicorn Companies](https://firdausdimmas.github.io/SQLProject_1/)
 
 * **Objective:** Support an investment firm in analyzing high-growth company trends.
 * **Goal:** Identify top-performing industries by company valuation and track the emergence rate of high-value companies.
@@ -235,7 +235,7 @@
 * **Tools:** SQL (PostgreSQL), with data querying, aggregation, and trend analysis techniques.
 * **Outcome:** Deliver insights to guide portfolio optimization and strategic investment decisions based on industry growth patterns.
 
-## [Project 12: Evaluate a Manufacturing Process](https://github.com/firdausdimmas/SQLProject_2)
+## [Project 12: Evaluate a Manufacturing Process](https://firdausdimmas.github.io/SQLProject_2/)
 
 * **Objective:** Enhance manufacturing quality through Statistical Process Control (SPC).
 * **Goal:** Identify and minimize defects by establishing control limits and analyzing production data.
@@ -244,7 +244,7 @@
 * **Tools used:** SQL (PostgreSQL) for data analysis and SPC calculations.
 * **Outcome:** Found 57 out of 363 parts out of control, with Operator 5 having the most alerts, leading to recommendations for root cause analysis and training.
 
-## [Project 13: Analyzing Motorcycle Part Sales](https://github.com/firdausdimmas/SQLProject_3)
+## [Project 13: Analyzing Motorcycle Part Sales](https://firdausdimmas.github.io/SQLProject_3/)
 
 * **Objective:** Analyze motorcycle part sales data to understand wholesale revenue by product line, month, and warehouse.
 * **Goal:** Calculate net wholesale revenue for each product line, categorized by month and warehouse.
@@ -253,7 +253,7 @@
 * **Tools used:** SQL (PostgreSQL) for querying and aggregating sales data.
 * **Outcome:** Engine Parts and Frame & Body were top revenue generators; Central Warehouse led in revenue; and revenue showed a strong upward trend from June to August.
 
-## [Project 14: Impact Analysis of GoodThought NGO Initiatives](https://github.com/firdausdimmas/SQLProject_4)
+## [Project 14: Impact Analysis of GoodThought NGO Initiatives](https://firdausdimmas.github.io/SQLProject_4/)
 
 * **Objective:** Optimize GoodThought NGO's impact and resource allocation using data from their PostgreSQL database (2010-2023).
 * **Goal:** Analyze trends, evaluate program effectiveness, and identify improvement opportunities for the NGO.
@@ -262,7 +262,7 @@
 * **Tools used:** SQL (PostgreSQL) for trend analysis.
 * **Outcome:** Identified top-funded assignments, regional donor patterns, and high-impact assignments.
 
-## [Project 15: Impact Analysis of GoodThought NGO Initiatives](https://github.com/firdausdimmas/SQLProject_5)
+## [Project 15: Impact Analysis of GoodThought NGO Initiatives](https://firdausdimmas.github.io/SQLProject_5/)
 
 * **Objective:** Explore factors influencing student success through analyzing lifestyle habits and exam performance.
 * **Goal:** Uncover relationships between student habits and academic performance for educational improvement.
