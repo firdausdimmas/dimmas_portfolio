@@ -270,3 +270,39 @@
 * **Key Analysis:** Examined correlations between study hours, extracurriculars, sleep duration, and exam scores/ranks.
 * **Tools used:** SQL (PostgreSQL) for enabling the analysis of factors influencing student success.
 * **Outcome:** Found positive links between increased study/extracurriculars and scores, optimal study hours (11-15 hrs), and balanced sleep (6-8 hrs) among top performers.
+
+## [Project 16: Analyze International Debt Statistics](https://firdausdimmas.github.io/SQLProject_6/)
+
+* **Objective:** Uncover key insights into the debt situation of developing nations, including identifying major debtors, debt distribution, and overall trends.
+* **Goal:** Provide a clearer understanding of how debt supports economic development and offer valuable insights for stakeholders and policymakers.
+* **Dataset:** International debt data collected by The World Bank.
+* **Key Analysis:** Analyzed international debt data to identify the largest debtors, understand debt distribution, and recognize overall debt trends among 124 developing countries.
+* **Tools used:** PostgreSQL was used to store and manage The World Bank's international debt data for analysis and querying.
+* **Outcome:** Identified 124 distinct developing countries in the dataset, with China having the highest total debt (approx. \$285 billion USD) and Timor Leste having the lowest principal repayments (as low as \$825,000 USD).
+
+## [Project 17: When Was the Golden Era of Video Games?](https://firdausdimmas.github.io/SQLProject_7/)
+
+* **Objective:** Explore if video games are improving over time or if their "golden age" has passed by analyzing review scores and global sales.
+* **Goal:** Uncover the most celebrated eras in gaming history and gain insights into the business dynamics of successful games.
+* **Dataset:** Data on video game critic scores, user ratings, and sales for the top 400 games released since 1977.
+* **Key Analysis:** Analyzed video game data to determine if games are improving over time, identifying best-selling games and the years with the highest critic and user scores.
+* **Tools used:** PostgreSQL (used for storing, managing, and querying the video game sales and review dataset).
+* **Outcome:** Top-selling games were mostly from the late 2000s-2010s; 1998, 2002, and 2004 had the highest average critic scores, with 1998 being the top year.
+
+## [Project 18: Analyzing Electric Vehicle Charging Habits](https://firdausdimmas.github.io/SQLProject_8/)
+
+* **Objective:** Analyze electric vehicle (EV) charging usage data to help apartment building managers understand tenant charging habits.
+* **Goal:** Provide insights into peak usage times, station availability, and demand patterns for better infrastructure planning and tenant satisfaction.
+* **Dataset:** EV charging usage data from Kaggle, loaded into a `charging_sessions` table.
+* **Key Analysis:** Analyzed EV charging usage data to understand tenant charging habits, identifying peak usage times, station availability issues, and overall demand patterns.
+* **Tools used:** PostgreSQL (used for storing the `charging_sessions` dataset and performing queries for analysis).
+* **Outcome:** Garage BI2 had the most unique users; popular charging times were Sundays between 3 p.m. and 7 p.m.; users "Share-9" and "Share-17" had significantly long average charging durations.
+
+## [Project 19: Analyzing Industry Carbon Emissions](https://firdausdimmas.github.io/SQLProject_9/)
+
+* **Objective:** Analyze industry carbon emissions to identify the worst-offending industries in 2017 based on product carbon footprints (PCFs).
+* **Goal:** Calculate and compare total carbon footprints across different industry groups using publicly available data.
+* **Dataset:** Product carbon footprints (PCFs) data from nature.com, stored in the `product_emissions` table.
+* **Key Analysis:** Analyzed industry carbon emissions, specifically identifying the "Materials" industry group as the worst offender in 2017 with a total carbon footprint of 107,129 kgCO2.
+* **Tools used:** PostgreSQL (used for storing and querying the `product_emissions` dataset to calculate and compare carbon footprints).
+* **Outcome:** The "Materials" industry group had the highest total carbon footprint in 2017, amounting to 107,129 kgCO2.
