@@ -1,4 +1,4 @@
-# Dimmas' Analytics Portfolio
+# Analytics Portfolio
 
 ## [Project 1: Munchys Supply Chain](https://public.tableau.com/views/MunchysSalesInsight/MunchysPetSupplyExecutiveDashboard)
 
