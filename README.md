@@ -203,7 +203,7 @@
 
 * **Outcome:** An interactive dashboard that helps stakeholders understand rider behavior, optimize bike distribution, improve service offerings, and enhance user experience.
 
-## [Project 10: HealthStat Length of Stay (LOS) Comparison]([https://public.tableau.com/views/HealthStatLOSComparison/LOSdashboard)
+## [Project 10: HealthStat Length of Stay (LOS) Comparison](https://public.tableau.com/views/HealthStatLOSComparison/LOSdashboard)
 
 ![LOS dashboard](https://github.com/user-attachments/assets/6c9b820f-1366-4451-bbb6-8480186cb829)
 
