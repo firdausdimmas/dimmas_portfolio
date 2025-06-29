@@ -262,7 +262,7 @@
 * **Tools used:** SQL (PostgreSQL) for trend analysis.
 * **Outcome:** Identified top-funded assignments, regional donor patterns, and high-impact assignments.
 
-## [Project 15: Impact Analysis of GoodThought NGO Initiatives](https://firdausdimmas.github.io/SQLProject_5/)
+## [Project 15: Factors that Fuel Student Performance](https://firdausdimmas.github.io/SQLProject_5/)
 
 * **Objective:** Explore factors influencing student success through analyzing lifestyle habits and exam performance.
 * **Goal:** Uncover relationships between student habits and academic performance for educational improvement.
